@@ -1,0 +1,21 @@
+{
+  "name": "bob",
+  "version": "1.0.0",
+  "description": "client",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "author": "Marc M",
+  "license": "ISC",
+  "dependencies": {
+    "bignum": "^0.12.5",
+    "body-parser": "~1.18.2",
+    "cors": "^2.8.4",
+    "debug": "~2.6.9",
+    "express": "~4.15.5",
+    "morgan": "~1.9.0",
+    "request": "^2.83.0",
+    "request-promise": "^4.2.2"
+  }
+}
