@@ -1,1 +1,1 @@
-# DiffieHellmanBob (client)
+# DiffieHellmanBob (server)
